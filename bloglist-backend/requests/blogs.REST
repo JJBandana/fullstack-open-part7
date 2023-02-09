@@ -18,12 +18,13 @@ Content-Type: application/json
 Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJuYW1lIiwiaWQiOiI2M2RkOWQ0NWIwMDJkMzNmOWMxOTlkOWUiLCJpYXQiOjE2NzU0NzIxNTF9.FaTX2RRvjxI_zoEAFV3fURKOQFyljuUTX0XzRxCjJBQ
 
 ### EDIT A BLOG
-PUT http://localhost:3003/api/blogs/63e28a730896d89272163971
+PUT http://localhost:3003/api/blogs/63e32ef8feca7f00a5c98570
 Content-Type: application/json
 Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJuYW1lIiwiaWQiOiI2M2RkOWQ0NWIwMDJkMzNmOWMxOTlkOWUiLCJpYXQiOjE2NzU0NzIxNTF9.FaTX2RRvjxI_zoEAFV3fURKOQFyljuUTX0XzRxCjJBQ
 
 {
-  "title": "THIS BLOG IS GOING TO BE DELETED",
-  "author": "JJBANDANA",
-  "url": "Updating this blog"
+  "title": "The Best Waifu is Miluwu",
+  "author": "Juan José",
+  "url": "milua16.com",
+  "likes": 999
 }
